@@ -1,6 +1,6 @@
 {
   "name": "rbac-dynamoose",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Dynamoose adapter for Role Based Access Control",
   "author": {
     "name": "Zlatko Fedor",
